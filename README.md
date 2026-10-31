@@ -5,7 +5,7 @@
 ## Запуск
 ```bash
 git clone git@github.com:ilina-practice-4/practice-4-github.git
-cd practice-2-gitlab
+cd practice-4-github
 ```
 
 ## Контакти
